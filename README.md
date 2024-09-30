@@ -10,3 +10,5 @@
 
 ## How to Play
 Move with arrow keys, shoot with spacebar, and defeat all aliens to progress!
+
+![Screenshot of Project-Ellen](screenshot.png)
